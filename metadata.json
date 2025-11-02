@@ -1,0 +1,5 @@
+{
+  "name": "Audio Waveform Video Generator",
+  "description": "An application to upload an MP3 or MP4 file, visualize its audio waveform with different styles, and export the animated waveform as an MP4 video synchronized with the audio.",
+  "requestFramePermissions": []
+}
